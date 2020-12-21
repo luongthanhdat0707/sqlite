@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnnhaptacgia"
+        android:title="Nhập tác giả"/>
+    <item android:title="Nhập sách"/>
+    <item
+        android:id="@+id/mnThoát"
+        android:title="Thoát"/>
+</menu>
